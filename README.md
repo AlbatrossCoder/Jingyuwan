@@ -1,9 +1,9 @@
-# 鲸鱼湾 · Jingwan
+# 鲸鱼湾 · Jingyuwan
 
 鲸鱼湾——一款可切换人物的 AI 伴成长应用。  
-Jingwan — an AI companion that grows with you, character switchable.
+Jingyuwan — an AI companion that grows with you, character switchable.
 
-另见：[Gitee · Jingwan](https://gitee.com/AlbatrossCoder/Jingwan)
+另见：[Gitee · Jingyuwan](https://gitee.com/AlbatrossCoder/Jingyuwan)
 
 ## 介绍
 
@@ -22,7 +22,7 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 ## 下载
 
-请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingwan/releases)** 下载 `Jingwan_<version>_release.apk`。
+请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases)** 下载 `Jingwan_<version>_release.apk`。
 
 当前版本：**0.2.7**（`Jingwan_0.2.7_release.apk`）
 
