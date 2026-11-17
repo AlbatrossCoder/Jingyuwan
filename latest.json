@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.7",
-  "sha256": "f253fcb0601f500bfd96b3217e84313949a643d78bb66d224d498f97c0c1d1c0",
-  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.7/Jingwan_0.2.7_release.apk",
-  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.7/Jingwan_0.2.7_release.apk",
-  "notes": "称呼说清是在叫面前的人；成长页空状态居中"
+  "versionCode": 10,
+  "versionName": "0.2.8",
+  "sha256": "56ee6beb743fcd93997d5ec5a29e33685169ac5dcdb0d9f159bb452bce9efbb4",
+  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.8/Jingyuwan_0.2.8_release.apk",
+  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.8/Jingyuwan_0.2.8_release.apk",
+  "notes": "管理页可开关思考和是否保存思考；长按发送可说话，松开后发送，上滑取消，录音时有居中音波，结果提示约 5 秒后收起；回复过程中再发送会打断当前回复，并保留已经生成的内容；发布地址改为 Jingyuwan。"
 }

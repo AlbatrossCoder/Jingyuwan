@@ -22,13 +22,13 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 
 ## 下载
 
-请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases)** 下载 `Jingwan_<version>_release.apk`。
+请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases)** 下载 `Jingyuwan_<version>_release.apk`。
 
-当前版本：**0.2.7**（`Jingwan_0.2.7_release.apk`）
+当前版本：**0.2.8**（`Jingyuwan_0.2.8_release.apk`）
 
 安装前可核对 SHA256：
 
-`f253fcb0601f500bfd96b3217e84313949a643d78bb66d224d498f97c0c1d1c0`
+`56ee6beb743fcd93997d5ec5a29e33685169ac5dcdb0d9f159bb452bce9efbb4`
 
 清单见根目录 [`latest.json`](./latest.json)。
 
