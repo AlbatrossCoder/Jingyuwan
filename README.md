@@ -18,17 +18,18 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 - **本机记忆**：回忆检索在本机完成；可选记忆增强包，让相关往事更容易被想起。
 - **自备模型**：支持常见 OpenAI 兼容接入（默认 DeepSeek 等）；密钥进系统钥匙串，不经过鲸鱼湾服务器。
 - **人物库**：设置里管理本机人物；导出 / 分享带鲸鱼湾水印的人物卡。
+- **虚拟形象**：聊天页可显示可互动的形象，支持导入 Live2D / 帧动画包。
 - **数据由你掌控**：可备份、导入；换人需先清空本地数据（不可恢复），接入密钥会保留。
 
 ## 下载
 
 请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases)** 下载 `Jingyuwan_<version>_release.apk`。
 
-当前版本：**0.2.8**（`Jingyuwan_0.2.8_release.apk`）
+当前版本：**0.2.9**（`Jingyuwan_0.2.9_release.apk`）
 
 安装前可核对 SHA256：
 
-`56ee6beb743fcd93997d5ec5a29e33685169ac5dcdb0d9f159bb452bce9efbb4`
+`694f24a97fd82b441060ce20c5eb65487b94399c2692dfa3774ca46e3e4ec333`
 
 清单见根目录 [`latest.json`](./latest.json)。
 

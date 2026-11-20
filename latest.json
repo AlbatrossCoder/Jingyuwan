@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.8",
-  "sha256": "56ee6beb743fcd93997d5ec5a29e33685169ac5dcdb0d9f159bb452bce9efbb4",
-  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.8/Jingyuwan_0.2.8_release.apk",
-  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.8/Jingyuwan_0.2.8_release.apk",
-  "notes": "管理页可开关思考和是否保存思考；长按发送可说话，松开后发送，上滑取消，录音时有居中音波，结果提示约 5 秒后收起；回复过程中再发送会打断当前回复，并保留已经生成的内容；发布地址改为 Jingyuwan。"
+  "versionCode": 11,
+  "versionName": "0.2.9",
+  "sha256": "694f24a97fd82b441060ce20c5eb65487b94399c2692dfa3774ca46e3e4ec333",
+  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/Jingyuwan_0.2.9_release.apk",
+  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/Jingyuwan_0.2.9_release.apk",
+  "notes": "新增虚拟形象：聊天页可显示并互动，支持导入 Live2D / 帧动画形象包，详情预览与全屏拖拽。修复检查更新时对同一版本安装包重复下载的问题。另有称呼即时生效、思考展示与是否保存解耦、长截图兼容、顶栏消息裁剪与空会话提示位置等小修复。"
 }
