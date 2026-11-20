@@ -23,9 +23,13 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 
 ## 下载
 
-请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases)** 下载 `Jingyuwan_<version>_release.apk`。
-
 当前版本：**0.2.9**（`Jingyuwan_0.2.9_release.apk`）
+
+| 渠道 | 说明 |
+| --- | --- |
+| **GitHub Release** | [Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases/tag/v0.2.9) |
+| **Gitee 发行版** | [发行版](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/tag/v0.2.9) |
+| **蓝奏云**（国内） | 待维护者提供链接与密码后补充 |
 
 安装前可核对 SHA256：
 
@@ -33,7 +37,19 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 
 清单见根目录 [`latest.json`](./latest.json)。
 
-> **说明**：安装包只作为 **Release 附件** 分发，**不要**把 APK commit 进本仓库 Git 树。
+> **说明**：安装包与形象资源包只作为 **Release 附件** 分发，**不要** commit 进本仓库 Git 树。GitHub / Gitee 挂同一 APK；蓝奏云仅作国内人手备用，**不进**应用内更新。
+
+## 虚拟形象资源包
+
+在 App「管理 → 虚拟形象」导入 ZIP。下列包已挂在 **v0.2.9** Release（与 APK 同页）：
+
+| 资源包 | 说明 | GitHub | Gitee |
+| --- | --- | --- | --- |
+| `ds-whale-girl-live2d-1.3.0.zip` | Live2D 鲸鱼娘，约 3 MiB | [下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/ds-whale-girl-live2d-1.3.0.zip) | [下载](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/ds-whale-girl-live2d-1.3.0.zip) |
+| `dsh-whale-girl-frames-compact-0.1.1.zip` | 帧动画精简（23 段），约 99 MiB | [下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/dsh-whale-girl-frames-compact-0.1.1.zip) | [下载](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/dsh-whale-girl-frames-compact-0.1.1.zip) |
+| `dsh-whale-girl-frames-full-0.1.0.zip` | 帧动画全量（114 段），约 497 MiB | [下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/dsh-whale-girl-frames-full-0.1.0.zip) | Gitee 单文件上限 100 MiB，请用 GitHub 或后续蓝奏 |
+
+素材授权随包内说明；非 DeepSeek 官方形象。
 
 ## 安装（Android）
 
@@ -46,6 +62,7 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 1. 在设置或开局「接入」里填上你的 API Key，并可检查连接。
 2. 选一位人物（或导入 / 新建），开始聊天。
 3. 设置入口在应用内管理页；长按气泡可引用或查看思考（若有）。
+4. 需要虚拟形象时，导入上方资源包并在管理页启用。
 
 ## 隐私要点
 
@@ -59,4 +76,4 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 
 ## 更新清单
 
-仓库根目录 [`latest.json`](./latest.json) 供应用内检查更新；优先 Gitee，失败再回落本仓 Release。
+仓库根目录 [`latest.json`](./latest.json) 供应用内检查更新；优先 Gitee，失败再回落 GitHub。双仓内容保持一致。
