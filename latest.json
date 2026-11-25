@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.9",
-  "sha256": "694f24a97fd82b441060ce20c5eb65487b94399c2692dfa3774ca46e3e4ec333",
-  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/Jingyuwan_0.2.9_release.apk",
-  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/Jingyuwan_0.2.9_release.apk",
-  "notes": "新增虚拟形象：聊天页可显示并互动，支持导入 Live2D / 帧动画形象包，详情预览与全屏拖拽。修复检查更新时对同一版本安装包重复下载的问题。另有称呼即时生效、思考展示与是否保存解耦、长截图兼容、顶栏消息裁剪与空会话提示位置等小修复。"
+  "versionCode": 12,
+  "versionName": "0.2.10",
+  "sha256": "aa702eeed8f09be424c20b2d6fb15415907fbde02d70ea5fad53a1c3e44a7fde",
+  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/Jingyuwan_0.2.10_release.apk",
+  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/Jingyuwan_0.2.10_release.apk",
+  "notes": "支持发送语音消息，可在本机回放，也可转成文字查看。发给小鲸鱼的仍是识别后的文字。另外美化了应用图标和头像。"
 }

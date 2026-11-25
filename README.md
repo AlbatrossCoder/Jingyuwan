@@ -23,17 +23,19 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 
 ## 下载
 
-当前版本：**0.2.9**（`Jingyuwan_0.2.9_release.apk`）
+当前版本：**0.2.10**（`Jingyuwan_0.2.10_release.apk`）
+
+建议使用蓝奏云下载，速度更快。
 
 | 渠道 | 说明 |
 | --- | --- |
-| **GitHub Release** | [Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases/tag/v0.2.9) |
-| **Gitee 发行版** | [发行版](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/tag/v0.2.9) |
-| **蓝奏云**（国内） | [下载](https://wwbtb.lanzout.com/i3vLX4gp41ij) · 密码：`e9qz` |
+| **GitHub Release** | [Releases](https://github.com/AlbatrossCoder/Jingyuwan/releases/tag/v0.2.10) |
+| **Gitee 发行版** | [发行版](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/tag/v0.2.10) |
+| **蓝奏云**（国内） | [下载](https://wwbtb.lanzout.com/iakK44h9dmcd) · 密码：`3qu4` |
 
 安装前可核对 SHA256：
 
-`694f24a97fd82b441060ce20c5eb65487b94399c2692dfa3774ca46e3e4ec333`
+`aa702eeed8f09be424c20b2d6fb15415907fbde02d70ea5fad53a1c3e44a7fde`
 
 清单见根目录 [`latest.json`](./latest.json)。
 
@@ -41,16 +43,16 @@ Jingyuwan — an AI companion that grows with you, character switchable.
 
 ## 虚拟形象资源包
 
-在 App「管理 → 虚拟形象」导入 ZIP。下列包已挂在 **v0.2.9** Release（与 APK 同页）。
+在 App「管理 → 虚拟形象」导入 ZIP。下列包已挂在 **v0.2.10** Release（与 APK 同页）。
 
 **Live2D 鲸鱼娘**（约 3 MiB）· `ds-whale-girl-live2d-1.3.0.zip`  
-GitHub：[下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/ds-whale-girl-live2d-1.3.0.zip) · Gitee：[下载](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/ds-whale-girl-live2d-1.3.0.zip) · 蓝奏云：[下载](https://wwbtb.lanzout.com/iTiF34gp2lgf)（密码 `ay5q`）
+GitHub：[下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/ds-whale-girl-live2d-1.3.0.zip) · Gitee：[下载](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/ds-whale-girl-live2d-1.3.0.zip) · 蓝奏云：[下载](https://wwbtb.lanzout.com/iTiF34gp2lgf)（密码 `ay5q`）
 
 **帧动画精简**（23 段，约 99 MiB）· `dsh-whale-girl-frames-compact-0.1.1.zip`  
-GitHub：[下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/dsh-whale-girl-frames-compact-0.1.1.zip) · Gitee：[下载](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/dsh-whale-girl-frames-compact-0.1.1.zip) · 蓝奏云：[下载](https://wwbtb.lanzout.com/iKObs4gp3b7c)（密码 `3rbh`）
+GitHub：[下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/dsh-whale-girl-frames-compact-0.1.1.zip) · Gitee：[下载](https://gitee.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/dsh-whale-girl-frames-compact-0.1.1.zip) · 蓝奏云：[下载](https://wwbtb.lanzout.com/iKObs4gp3b7c)（密码 `3rbh`）
 
 **帧动画全量**（114 段，约 497 MiB）· `dsh-whale-girl-frames-full-0.1.0.zip`  
-GitHub：[下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.9/dsh-whale-girl-frames-full-0.1.0.zip) · Gitee 单文件上限 100 MiB，请用 GitHub · 蓝奏云：暂无
+GitHub：[下载](https://github.com/AlbatrossCoder/Jingyuwan/releases/download/v0.2.10/dsh-whale-girl-frames-full-0.1.0.zip) · Gitee 单文件上限 100 MiB，请用 GitHub · 蓝奏云：暂无
 
 素材授权随包内说明；非 DeepSeek 官方形象。
 
